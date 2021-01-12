@@ -1,1 +1,2 @@
-"Cameron Vandenberg" 
+"Cameron Vandenberg"
+vandenca@oregonstate.edu 
